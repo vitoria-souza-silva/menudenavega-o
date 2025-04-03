@@ -2,3 +2,7 @@ ul{
     list-style:none;
     display:flex;
 }
+
+li{
+    margin-left:10px;
+}
